@@ -1,0 +1,15 @@
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\bin\Debug\net6.0\DirectedGraphCycle.exe
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\bin\Debug\net6.0\DirectedGraphCycle.deps.json
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\bin\Debug\net6.0\DirectedGraphCycle.runtimeconfig.json
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\bin\Debug\net6.0\DirectedGraphCycle.dll
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\bin\Debug\net6.0\DirectedGraphCycle.pdb
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.csproj.AssemblyReference.cache
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.AssemblyInfoInputs.cache
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.AssemblyInfo.cs
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.csproj.CoreCompileInputs.cache
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.dll
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\refint\DirectedGraphCycle.dll
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.pdb
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\DirectedGraphCycle.genruntimeconfig.cache
+C:\projects\DirectedGraphCycle\DirectedGraphCycle\obj\Debug\net6.0\ref\DirectedGraphCycle.dll
